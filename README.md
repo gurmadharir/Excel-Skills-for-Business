@@ -17,6 +17,7 @@ This course empowers you to become proficient with Excel for business, covering:
 
 ## 🗂 Repository Structure
 
+```plaintext
 ExcelSkills-MQUniversity/
 ├── Course 1 - Essentials/
 │   ├── Module-1 - Core/
@@ -53,5 +54,5 @@ ExcelSkills-MQUniversity/
 │   ├── Excel-Shortcuts.md
 │   └── Additional-References.pdf
 └── README.md
-
+...
 
