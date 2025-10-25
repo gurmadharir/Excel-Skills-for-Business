@@ -36,38 +36,49 @@ This course empowers you to become proficient with Excel for business, covering:
 ExcelSkills-MQUniversity/
 ├── Course 1 - Essentials/
 │   ├── Module-1 - Core/
-│   │   ├── Assignments/
-│   │   ├── Quizzes/
-│   │   ├── PracticeFiles/
-│   │   └── LectureNotes/
-│   ├── Module-2 - Calculations/
-│   │   └── ...
+│   │   ├── assignments.pdf
+│   │   ├── Challenge/
+│   │   │   └── challenge_name.xlsx
+│   │   ├── FinalAssess/
+│   │   │   ├── assessment.xlsx
+│   │   │   └── assessment.pdf
+│   │   └── lecturerNotes.pdf
 │   └── README.md
 ├── Course 2 - Intermediate 1/
 │   ├── Module-1 - MultiSheets/
-│   │   ├── Assignments/
-│   │   ├── Quizzes/
-│   │   ├── PracticeFiles/
-│   │   └── LectureNotes/
+│   │   ├── assignments.pdf
+│   │   ├── Challenge/
+│   │   │   └── challenge_name.xlsx
+│   │   ├── FinalAssess/
+│   │   │   ├── assessment.xlsx
+│   │   │   └── assessment.pdf
+│   │   └── lecturerNotes.pdf
 │   └── README.md
 ├── Course 3 - Intermediate 2/
 │   ├── Module-1 - Validations/
-│   │   ├── Assignments/
-│   │   ├── Quizzes/
-│   │   ├── PracticeFiles/
-│   │   └── LectureNotes/
+│   │   ├── assignments.pdf
+│   │   ├── Challenge/
+│   │   │   └── challenge_name.xlsx
+│   │   ├── FinalAssess/
+│   │   │   ├── assessment.xlsx
+│   │   │   └── assessment.pdf
+│   │   └── lecturerNotes.pdf
 │   └── README.md
 ├── Course 4 - Advanced/
 │   ├── Module-1 - SpreadsheetDesign/
-│   │   ├── Assignments/
-│   │   ├── Quizzes/
-│   │   ├── PracticeFiles/
-│   │   └── LectureNotes/
+│   │   ├── assignments.pdf
+│   │   ├── Challenge/
+│   │   │   └── challenge_name.xlsx
+│   │   ├── FinalAssess/
+│   │   │   ├── assessment.xlsx
+│   │   │   └── assessment.pdf
+│   │   └── lecturerNotes.pdf
 │   └── README.md
+
 ├── Resources/
-│   ├── Formula-CheatSheet.md
-│   ├── Excel-Shortcuts.md
-│   └── Additional-References.pdf
+│   ├── formula-cheatsheet.md
+│   ├── excel-shortcuts.md
+│   └── additional-references.pdf
 └── README.md
 ...
 
