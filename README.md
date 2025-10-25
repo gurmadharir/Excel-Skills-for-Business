@@ -12,7 +12,22 @@ This course empowers you to become proficient with Excel for business, covering:
 - ➕ Using formulas & functions for data analysis  
 - 📈 Creating and customizing charts and visualizations  
 - ✅ Data validation and error checking for reliable spreadsheets  
-- 🔄 Automating repetitive tasks  
+- 🔄 Automating repetitive tasks
+
+  
+## 📚 Course Structure
+
+1. **Course 1 – Essentials**  
+   - Core Excel skills for beginners, including formulas, formatting, and data entry.
+
+2. **Course 2 – Intermediate I**  
+   - Working with multiple worksheets, ranges, and data organization.
+
+3. **Course 3 – Intermediate II**  
+   - Data validation, cleaning, and logical functions.
+
+4. **Course 4 – Advanced**  
+   - Professional spreadsheet design, automation, and advanced analytics.
 
 
 ## 🗂 Repository Structure
