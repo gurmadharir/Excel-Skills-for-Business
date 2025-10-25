@@ -17,18 +17,11 @@ This course empowers you to become proficient with Excel for business, covering:
   
 ## 📚 Course Structure
 
-1. **Course 1 – Essentials**  
-   - Core Excel skills for beginners, including formulas, formatting, and data entry.
-
-2. **Course 2 – Intermediate I**  
-   - Working with multiple worksheets, ranges, and data organization.
-
-3. **Course 3 – Intermediate II**  
-   - Data validation, cleaning, and logical functions.
-
-4. **Course 4 – Advanced**  
-   - Professional spreadsheet design, automation, and advanced analytics.
-
+1. **Course 1 – Essentials:** Basic Excel skills (formulas, formatting, data entry).
+2. **Course 2 – Intermediate I:** Working with multiple worksheets, ranges, and data organization.
+3. **Course 3 – Intermediate II:** Data validation, cleaning, and logical functions.
+4. **Course 4 – Advanced:** Professional spreadsheet design, automation, and advanced analytics.
+   
 
 ## 🗂 Repository Structure
 
