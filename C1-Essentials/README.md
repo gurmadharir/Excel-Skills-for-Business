@@ -77,14 +77,15 @@ Learn to visualize data by creating and modifying charts in Excel.
 ### ✅ Module 7 – Final Assessment
 Demonstrate mastery of the essential Excel skills covered in Modules 1–6.  
 
-**Objectives:**- Apply all learned skills to complete practical Excel tasks  
+**Objectives:**
+- Apply all learned skills to complete practical Excel tasks  
 - Show proficiency in calculations, formatting, data management, printing, and charts  
 
 ---
 
 ## 🧾 Course Info
 - **Level:** Beginner  
-- **Certificate:** [Coursera](https://coursera.org/share/e878dd6883f05d49e6bffecbb29c876c)
+- **Certification:** [Coursera](https://coursera.org/share/e878dd6883f05d49e6bffecbb29c876c)
 - **Institution:** Macquarie University  
 
 ---
