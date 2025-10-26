@@ -31,41 +31,29 @@ ExcelSkills-MQUniversity/
 │   ├── Module-1 - Core/
 │   │   ├── PracAssigns/
 │   │   ├── Challenge/
-│   │   │   └── challenge_name.xlsx
 │   │   ├── FinalAssess/
-│   │   │   ├── assessment.xlsx
-│   │   │   └── assessment.pdf
-│   │   └── lecturerNotes.pdf
+│   │   └── Summary and Takeaways.pdf
 │   └── README.md
 ├── Course 2 - Intermediate 1/
 │   ├── Module-1 - MultiSheets/
 │   │   ├── PracAssigns/
 │   │   ├── Challenge/
-│   │   │   └── challenge_name.xlsx
 │   │   ├── FinalAssess/
-│   │   │   ├── assessment.xlsx
-│   │   │   └── assessment.pdf
-│   │   └── lecturerNotes.pdf
+│   │   └── Summary and Takeaways.pdf
 │   └── README.md
 ├── Course 3 - Intermediate 2/
 │   ├── Module-1 - Validations/
 │   │   ├── PracAssigns/
 │   │   ├── Challenge/
-│   │   │   └── challenge_name.xlsx
 │   │   ├── FinalAssess/
-│   │   │   ├── assessment.xlsx
-│   │   │   └── assessment.pdf
-│   │   └── lecturerNotes.pdf
+│   │   └── Summary and Takeaways.pdf
 │   └── README.md
 ├── Course 4 - Advanced/
 │   ├── Module-1 - SpreadsheetDesign/
 │   │   ├── PracAssigns/
 │   │   ├── Challenge/
-│   │   │   └── challenge_name.xlsx
 │   │   ├── FinalAssess/
-│   │   │   ├── assessment.xlsx
-│   │   │   └── assessment.pdf
-│   │   └── lecturerNotes.pdf
+│   │   └── Summary and Takeaways.pdf
 │   └── README.md
 
 ├── Resources/
