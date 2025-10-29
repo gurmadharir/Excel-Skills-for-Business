@@ -1,4 +1,4 @@
-# 📊 Excel Skills for Business - MQUniversity
+# 📊 Excel Skills for Business - Macquarie University
 
 Welcome to my **Excel Skills for Business** coursework repository from **Macquarie University** on Coursera!  
 This repo contains assignments, quizzes, notes, and projects — all organized week-by-week.
