@@ -63,3 +63,13 @@ ExcelSkills-MQUniversity/
 └── README.md
 ...
 
+## Acknowledgments
+
+A heartfelt thanks to the **Macquarie University** instructors for their excellent teaching and
+guidance throughout the *Excel Skills for Business* specialization on Coursera:
+
+- **Dr. Yvonne Breyer** – Academic Director, Macquarie Business School  
+- **Nicky Bull** – Excel Expert & Lead Instructor  
+- **Prashan S.** – Course Developer & Facilitator
+
+
