@@ -14,7 +14,7 @@ This course empowers you to become proficient with Excel for business, covering:
 - ✅ Data validation and error checking for reliable spreadsheets  
 - 🔄 Automating repetitive tasks
 
-### 🤝  Course Acknowledgments
+### 🎓  Course Acknowledgments
 
 A heartfelt thanks to the **Macquarie University** instructors for their excellent teaching and guidance throughout the *Excel Skills for Business* specialization on Coursera:
 
@@ -68,10 +68,4 @@ ExcelSkills-MQUniversity/
 │   ├── excel-shortcuts.md
 │   └── additional-references.pdf
 └── README.md
-
-
 ...
-
-
-
-
