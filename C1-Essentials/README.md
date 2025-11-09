@@ -1,7 +1,6 @@
-# 📘 Course 1 – Essentials  
+### 📘 Course 1 – Essentials  
 **Excel Skills for Business – Macquarie University (Coursera)**  
 
----
 
 ## 🎯 Overview
 This course introduces the **essential Excel skills** for business.  
