@@ -1,5 +1,5 @@
 # 📘 Course 2 – Intermediate I
-### **Excel Skills for Business – Macquarie University (Coursera)**
+### Excel Skills for Business – Macquarie University (Coursera)
 
 
 ### 🎯 Overview
@@ -11,13 +11,15 @@ Learn to manage data across multiple workbooks, manipulate text and dates, use n
 
 ### 📑 Module 1 – Working with Multiple Worksheets & Workbooks
 
-Master the art of managing and combining data across multiple worksheets and files.  
-Learn to link, consolidate, and perform calculations between sources for better data organization.  
-**Objectives:**
+Master the art of managing and combining data across multiple worksheets and workbooks.  
+Learn how to link, consolidate, and perform calculations between different sources to improve data organization and efficiency.
 
-- Combine data from various workbooks
-- Perform cross-sheet calculations
-- Manage datasets across multiple sources
+**Objectives:**    
+
+- Work with multiple worksheets effectively  
+- Use 3D formulas to perform calculations across sheets  
+- Link data between workbooks  
+- Consolidate data from multiple sources  
 
 ---
 
@@ -25,6 +27,7 @@ Learn to link, consolidate, and perform calculations between sources for better 
 
 Enhance your data manipulation skills by mastering Excel’s Date and Text functions.  
 Learn how to extract, transform, and format data to meet specific business requirements.  
+
 **Objectives:**
 
 - Use Date and Text functions to extract insights
@@ -37,6 +40,7 @@ Learn how to extract, transform, and format data to meet specific business requi
 
 Simplify complex formulas and make your spreadsheets more readable and professional.  
 Named Ranges help you manage and reference data easily across your workbook.  
+
 **Objectives:**
 
 - Create and manage Named Ranges
@@ -49,6 +53,7 @@ Named Ranges help you manage and reference data easily across your workbook.
 
 Take your formulas to the next level with powerful functions like COUNTIFS and SUMIFS.  
 Learn how to extract summary information and visualize data for better decision-making.  
+
 **Objectives:**
 
 - Use advanced formulas to summarize data
@@ -61,6 +66,7 @@ Learn how to extract summary information and visualize data for better decision-
 
 Discover how **Excel Tables** can make your work faster and more efficient.  
 Learn to organize, format, and automate data handling while improving accuracy and flexibility.  
+
 **Objectives:**
 
 - Create and format Excel Tables
@@ -73,6 +79,7 @@ Learn to organize, format, and automate data handling while improving accuracy a
 
 Unlock the full potential of Pivot Tables to analyze data and build interactive dashboards.  
 Visualize trends, compare results, and filter data dynamically with Charts and Slicers.  
+
 **Objectives:**
 
 - Create and modify Pivot Tables
@@ -84,6 +91,7 @@ Visualize trends, compare results, and filter data dynamically with Charts and S
 ### ✅ Module 7 – Final Assessment
 
 Showcase your mastery by applying all the learned tools and techniques to realistic business scenarios.  
+
 **Objectives:**
 
 - Integrate multiple Excel skills in a final project
