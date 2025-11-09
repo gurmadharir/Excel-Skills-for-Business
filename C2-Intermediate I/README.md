@@ -1,10 +1,10 @@
-📘 Course 2 – Intermediate I
+### 📘 Course 2 – Intermediate I
 
 **Excel Skills for Business – Macquarie University (Coursera)**
 
 ---
 
-🎯 Overview
+### 🎯 Overview
 
 Take your Excel abilities to the **intermediate level** and boost your productivity.  
 Learn to manage data across multiple workbooks, manipulate text and dates, use named ranges, create tables for efficiency, summarize data with advanced formulas, and build interactive dashboards using Pivot Tables, Charts, and Slicers.
