@@ -1,8 +1,8 @@
-# 📘 Course 2 – Intermediate I
+📘 Course 2 – Intermediate I
 
 **Excel Skills for Business – Macquarie University (Coursera)**
 
-
+---
 
 ## 🎯 Overview
 
