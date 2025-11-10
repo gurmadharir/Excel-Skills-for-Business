@@ -12,12 +12,12 @@ Learn to manage data across multiple workbooks, manipulate text and dates, use n
 Master the art of managing and combining data across multiple worksheets and workbooks.  
 Learn how to link, consolidate, and perform calculations between different sources to improve data organization and efficiency.
 
-**Objectives:**    
+**Key Lessons:**    
 
-- Work with multiple worksheets effectively  
-- Use 3D formulas to perform calculations across sheets  
-- Link data between workbooks  
-- Consolidate data from multiple sources  
+- Working with multiple worksheets (sheet styling, navigation & grouping).
+- Using 3D formulas for calculations accross several sheets.
+- Linking data between multiple workbooks.
+- Consolidating values (by **Position** & **Reference**).
 
 ---
 
@@ -26,11 +26,13 @@ Learn how to link, consolidate, and perform calculations between different sourc
 Enhance your data manipulation skills by mastering Excel’s Date and Text functions.  
 Learn how to extract, transform, and format data to meet specific business requirements.  
 
-**Objectives:**
+**Key Lessons**    
 
-- Use Date and Text functions to extract insights
-- Manipulate data for business needs
-- Combine or split text strings efficiently
+- Combining text (CONCAT, &).
+- Text case (UPPER, LOWER, PROPER).
+- Extracting text (LEFT, MID, RIGHT).
+- Finding text (FIND).
+- Date calculations (NOW, TODAY, YEARFRAC).
 
 ---
 
@@ -39,12 +41,12 @@ Learn how to extract, transform, and format data to meet specific business requi
 Simplify complex formulas and make your spreadsheets more readable and professional.  
 Named Ranges help you manage and reference data easily across your workbook.  
 
-**Objectives:**
+**Key Lessons**    
 
-- Create and manage Named Ranges
-- Apply them in formulas to enhance clarity
-- Use them to streamline calculations
-
+- Named Ranges in Excel.
+- Creating & managing Named Ranges.
+- Applying them in formulas.
+  
 ---
 
 ### 📊 Module 4 – Summarizing Data
@@ -52,11 +54,10 @@ Named Ranges help you manage and reference data easily across your workbook.
 Take your formulas to the next level with powerful functions like COUNTIFS and SUMIFS.  
 Learn how to extract summary information and visualize data for better decision-making.  
 
-**Objectives:**
+**Key Lessons**    
 
-- Use advanced formulas to summarize data
-- Extract key insights from datasets
-- Create graphical representations of summaries
+- Advanced formulas for summarizing data (COUNT & COUNTIFS, SUMIFS).
+- Advanced charting (Sparklines & Trendlines).
 
 ---
 
@@ -65,11 +66,11 @@ Learn how to extract summary information and visualize data for better decision-
 Discover how **Excel Tables** can make your work faster and more efficient.  
 Learn to organize, format, and automate data handling while improving accuracy and flexibility.  
 
-**Objectives:**
+**Key Lessons**    
 
-- Create and format Excel Tables
-- Sort and filter data quickly
-- Automate data management using Tables
+- Create and format Excel Tables.
+- Sort & filter data in Tables quickly.
+- Automation with Tables.
 
 ---
 
@@ -78,11 +79,11 @@ Learn to organize, format, and automate data handling while improving accuracy a
 Unlock the full potential of Pivot Tables to analyze data and build interactive dashboards.  
 Visualize trends, compare results, and filter data dynamically with Charts and Slicers.  
 
-**Objectives:**
+**Key Lessons**    
 
-- Create and modify Pivot Tables
-- Use them to solve business problems
-- Build interactive dashboards with Pivot Charts and Slicers
+- Create and modify Pivot Tables.
+- Use them to solve business problems.
+- Build interactive dashboards with Pivot Charts and Slicers.
 
 ---
 
@@ -92,8 +93,8 @@ Showcase your mastery by applying all the learned tools and techniques to realis
 
 **Objectives:**
 
-- Integrate multiple Excel skills in a final project
-- Demonstrate proficiency in data management and visualization
+- Integrate multiple Excel skills in a final project.
+- Demonstrate proficiency in data management and visualization.
 
 ---
 
