@@ -4,6 +4,7 @@ This GitHub repository contains **Excel Skills for Business practice files, assi
 
 It is designed for learners looking for **hands-on Excel practice**, real coursework examples, and structured Excel learning material — from **beginner to advanced business Excel skills**.
 
+---
 
 ## 📊 What You’ll Learn (Excel Skills Covered)
 
