@@ -1,71 +1,48 @@
-# 📊 Excel Skills for Business - Macquarie University
+# Excel Skills for Business – Excel Practice, Assignments & Projects (GitHub)
 
-Welcome to my **Excel Skills for Business** coursework repository from **Macquarie University** on Coursera!  
-This repo contains assignments, quizzes, notes, and projects — all organized week-by-week.
+This GitHub repository contains **Excel Skills for Business practice files, assignments, quizzes, and projects** based on the **Macquarie University – Excel Skills for Business specialization (Coursera)**.
 
+It is designed for learners looking for **hands-on Excel practice**, real coursework examples, and structured Excel learning material — from **beginner to advanced business Excel skills**.
 
-## 🎯 Course Overview
+---
 
-This course empowers you to become proficient with Excel for business, covering:
+## 📊 What You’ll Learn (Excel Skills Covered)
 
-- 📥 Efficient data entry and navigation  
-- ➕ Using formulas & functions for data analysis  
-- 📈 Creating and customizing charts and visualizations  
-- ✅ Data validation and error checking for reliable spreadsheets  
-- 🔄 Automating repetitive tasks
+This repository helps you practice essential **Excel skills for business**, including:
 
-## 🎓 Course Acknowledgments
+- Excel data entry, formatting, and navigation  
+- Excel formulas and functions for business analysis  
+- Charts, dashboards, and data visualization  
+- Data validation, error checking, and spreadsheet auditing  
+- Automating repetitive Excel tasks  
+- Professional spreadsheet design techniques
 
-A heartfelt thanks to the **Macquarie University** instructors for their excellent teaching and guidance throughout the *Excel Skills for Business* specialization on Coursera:
+---
+
+## 🎓 Course Source & Acknowledgments
+
+Content is based on the **Excel Skills for Business specialization by Macquarie University** on Coursera.
+
+Special thanks to the instructors:
 
 - **Dr. Yvonne Breyer** – Academic Director, Macquarie Business School  
 - **Nicky Bull** – Excel Expert & Lead Instructor  
-- **Prashan S.** – Course Developer & Facilitator
-  
+- **Prashan S.** – Course Developer & Facilitator  
 
-## 📚 Course Structure
+---
 
-1. **Course 1 – Essentials:** Basic Excel skills (formulas, formatting, data entry).
-2. **Course 2 – Intermediate I:** Working with multiple worksheets, ranges, and data organization.
-3. **Course 3 – Intermediate II:** Data validation, cleaning, and logical functions.
-4. **Course 4 – Advanced:** Professional spreadsheet design, automation, and advanced analytics.
+## 📚 Course Structure (Beginner → Advanced Excel)
 
-## 🗂 Repository Structure
+1. **Course 1 – Essentials**  
+   Core Excel skills: formulas, formatting, data entry, and basic functions.
 
-```plaintext
-ExcelSkills-MQUniversity/
-├── Course 1 - Essentials/
-│   ├── Module-1 - Core/
-│   │   ├── PracAssigns/
-│   │   ├── Challenge/
-│   │   ├── FinalAssess/
-│   │   └── Summary and Takeaways.pdf
-│   └── README.md
-├── Course 2 - Intermediate 1/
-│   ├── Module-1 - MultiSheets/
-│   │   ├── PracAssigns/
-│   │   ├── Challenge/
-│   │   ├── FinalAssess/
-│   │   └── Summary and Takeaways.pdf
-│   └── README.md
-├── Course 3 - Intermediate 2/
-│   ├── Module-1 - Validations/
-│   │   ├── PracAssigns/
-│   │   ├── Challenge/
-│   │   ├── FinalAssess/
-│   │   └── Summary and Takeaways.pdf
-│   └── README.md
-├── Course 4 - Advanced/
-│   ├── Module-1 - SpreadsheetDesign/
-│   │   ├── PracAssigns/
-│   │   ├── Challenge/
-│   │   ├── FinalAssess/
-│   │   └── Summary and Takeaways.pdf
-│   └── README.md
+2. **Course 2 – Intermediate I**  
+   Working with multiple worksheets, ranges, and structured data.
 
-├── Resources/
-│   ├── formula-cheatsheet.md
-│   ├── excel-shortcuts.md
-│   └── additional-references.pdf
-└── README.md
-...
+3. **Course 3 – Intermediate II**  
+   Data validation, cleaning techniques, logical functions, and auditing.
+
+4. **Course 4 – Advanced**  
+   Professional spreadsheet design, automation, and advanced analytics.
+
+---
