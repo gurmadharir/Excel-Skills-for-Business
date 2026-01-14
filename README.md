@@ -15,8 +15,6 @@ This repository helps you practice essential **Excel skills for business**, incl
 - Automating repetitive Excel tasks  
 - Professional spreadsheet design techniques
 
----
-
 ## 🎓 Course Source & Acknowledgments
 
 Content is based on the **Excel Skills for Business specialization by Macquarie University** on Coursera.
@@ -42,4 +40,3 @@ Special thanks to the instructors:
 4. **Course 4 – Advanced**  
    Professional spreadsheet design, automation, and advanced analytics.
 
----
