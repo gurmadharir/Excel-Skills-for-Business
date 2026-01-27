@@ -102,6 +102,6 @@ Showcase your **mastery** by applying all the learned **tools** and **techniques
 - **Institution:** Macquarie University
 
 ---
+**Gurmad Harir**  
+January 27, 2026.
 
-**Gurmad Harir**
-January 27, 2026
