@@ -87,10 +87,7 @@ Learn how to **create**, **edit**, and **manage macros**, and discover practical
 ### ✅ Module 7 – Final Assessment
 
 Showcase your **mastery** by applying all the learned **tools** and **techniques** to **realistic business scenarios**.  
-
-**Objectives:**
-
-- **Integrate multiple Excel skills** in a **final project**.
+**Integrate multiple Excel skills** in a **final project**.
 
 ---
 
