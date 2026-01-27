@@ -97,7 +97,7 @@ Showcase your **mastery** by applying all the learned **tools** and **techniques
 ## 🧾 Course Info
 
 - **Level:** Intermediate II
-- **Prerequisite:** Course 2 – Intermediate I
+- **Prerequisite:** Course 3 – Intermediate II
 - **Certification:** [Coursera] (https://coursera.org/share/f8c05f5696c33720a4148733ce79108f)
 - **Institution:** Macquarie University
 
